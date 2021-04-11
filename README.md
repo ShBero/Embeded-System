@@ -7,3 +7,4 @@ C++
 Linux
 ## Hardware: 
 Raspberry Pi
+some sensors

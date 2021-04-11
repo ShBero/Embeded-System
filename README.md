@@ -6,5 +6,5 @@ C++
 ## Platform: 
 Linux
 ## Hardware: 
-Raspberry Pi
+Raspberry Pi <br>
 some sensors
